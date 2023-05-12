@@ -86,13 +86,35 @@ if __name__ == '__main__':
         for iiii in retslit:
             rettx.write('{}\n'.format(iiii))
 
+    fdnum = 10
+
+    fidx = 0
+    yamlidx = 0
+    serviceslist1 = []
+    for iii in serviceslist:
+        serviceslist1.append(iii)
+        fidx += 1
+        if fidx == 10:
+            fidx = 0
+            retdic = {
+                'services': serviceslist1
+            }
+            curpath = os.path.dirname(os.path.realpath(__file__))
+            yamlidx += 1
+            yamlpath = os.path.join(curpath, "render{}.yaml".format(yamlidx))
+
+            # 写入到yaml文件
+            with open(yamlpath, "w", encoding="utf-8") as f:
+                yaml.dump(retdic, f)
     retdic = {
-        'services': serviceslist
+        'services': serviceslist1
     }
-    print(retdic)
     curpath = os.path.dirname(os.path.realpath(__file__))
-    yamlpath = os.path.join(curpath, "render.yaml")
+    yamlidx += 1
+    yamlpath = os.path.join(curpath, "render{}.yaml".format(yamlidx))
 
     # 写入到yaml文件
     with open(yamlpath, "w", encoding="utf-8") as f:
         yaml.dump(retdic, f)
+
+    # print(retdic)

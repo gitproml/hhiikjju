@@ -280,18 +280,6 @@ services:
   dockerCommand: null
   env: docker
   healthCheckPath: /
-  name: qhHON373gYNK
-  numInstances: null
-  plan: free
-  region: singapore
-  repo: null
-  rootDir: 8rDoz
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  healthCheckPath: /
   name: UdSQNOP
   numInstances: null
   plan: free
@@ -562,18 +550,6 @@ services:
   region: singapore
   repo: null
   rootDir: NKwEYp8eQ
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  healthCheckPath: /
-  name: vXgTDgXP
-  numInstances: null
-  plan: free
-  region: singapore
-  repo: null
-  rootDir: 1kx5r
   type: web
 - autoDeploy: false
   branch: main

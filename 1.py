@@ -38,10 +38,20 @@ def generate_random_str(randomlength=16):
         random_str += base_str[random.randint(0, length)]
     return random_str
 
+def generate_random_str2(randomlength=16):
+    """
+    生成一个指定长度的随机字符串
+    """
+    random_str = ''
+    base_str = 'abcdefghigklmnopqrstuvwxyz0123456789'
+    length = len(base_str) - 1
+    for i in range(randomlength):
+        random_str += base_str[random.randint(0, length)]
+    return random_str
 
 def gendic(aaa):
-    rint1 = random.randint(7, 12)
-    rstr1 = generate_random_str(rint1)
+    rint1 = random.randint(10, 17)
+    rstr1 = generate_random_str2(rint1)
 
     retdic = {
         'type': 'web',
@@ -99,6 +109,7 @@ if __name__ == '__main__':
             retdic = {
                 'services': serviceslist1
             }
+            serviceslist1 = []
             curpath = os.path.dirname(os.path.realpath(__file__))
             yamlidx += 1
             yamlpath = os.path.join(curpath, "render{}.yaml".format(yamlidx))

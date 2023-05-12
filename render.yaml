@@ -9,7 +9,7 @@ services:
     branch: master # optional (defaults to master)
     rootDir: 1kx5r
     dockerCommand: # optional (defaults to Dockerfile command)
-    numInstances: 3 # optional (defaults to 1)
+    numInstances:  # optional (defaults to 1)
     healthCheckPath: /
     autoDeploy: false # optional
   
@@ -23,7 +23,7 @@ services:
     branch: master # optional (defaults to master)
     rootDir: 8rDoz
     dockerCommand: # optional (defaults to Dockerfile command)
-    numInstances: 3 # optional (defaults to 1)
+    numInstances:  # optional (defaults to 1)
     healthCheckPath: /
     autoDeploy: false # optional
 

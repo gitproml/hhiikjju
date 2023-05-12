@@ -1,0 +1,31 @@
+services:
+  # A Docker web service
+  - type: web
+    name: 1kx5r
+    env: docker
+    repo:  # optional
+    region: singapore # optional (defaults to oregon)
+    plan: free # optional (defaults to starter instance type)
+    branch: main # optional (defaults to master)
+    rootDir: 1kx5r
+    dockerCommand: # optional (defaults to Dockerfile command)
+    numInstances:  # optional (defaults to 1)
+    healthCheckPath: /
+    autoDeploy: false # optional
+  
+    # A Docker web service
+  - type: web
+    name: 8rDoz
+    env: docker
+    repo:  # optional
+    region: singapore # optional (defaults to oregon)
+    plan: free # optional (defaults to starter instance type)
+    branch: main # optional (defaults to master)
+    rootDir: 8rDoz
+    dockerCommand: # optional (defaults to Dockerfile command)
+    numInstances:  # optional (defaults to 1)
+    healthCheckPath: /
+    autoDeploy: false # optional
+
+    
+

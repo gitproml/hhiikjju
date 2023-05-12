@@ -6,7 +6,7 @@ services:
     repo:  # optional
     region: singapore # optional (defaults to oregon)
     plan: free # optional (defaults to starter instance type)
-    branch: master # optional (defaults to master)
+    branch: main # optional (defaults to master)
     rootDir: 1kx5r
     dockerCommand: # optional (defaults to Dockerfile command)
     numInstances:  # optional (defaults to 1)
@@ -20,7 +20,7 @@ services:
     repo:  # optional
     region: singapore # optional (defaults to oregon)
     plan: free # optional (defaults to starter instance type)
-    branch: master # optional (defaults to master)
+    branch: main # optional (defaults to master)
     rootDir: 8rDoz
     dockerCommand: # optional (defaults to Dockerfile command)
     numInstances:  # optional (defaults to 1)

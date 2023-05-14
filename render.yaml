@@ -4,10 +4,10 @@ services:
   dockerCommand: null
   env: docker
   healthCheckPath: /
-  name: fjeriujgrt-grtnjuignrt
+  name: rgtrhtyhyjyujuy
   numInstances: null
   plan: free
-  region: singapore
+  region: ohio
   repo: null
-  rootDir: bfhPAT5
+  rootDir: GUmIZE
   type: web

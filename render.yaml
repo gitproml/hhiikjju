@@ -4,10 +4,10 @@ services:
   dockerCommand: null
   env: docker
   healthCheckPath: /
-  name: juirt-grtjihotrj
+  name: xzmcsdvi-regkiero
   numInstances: null
   plan: free
-  region: singapore
+  region: oregon
   repo: null
-  rootDir: OhCLn9Zhy
+  rootDir: 1kx5r
   type: web

@@ -4,10 +4,10 @@ services:
   dockerCommand: null
   env: docker
   healthCheckPath: /
-  name: xzmcsdvi-regkiero
+  name: sdnhiugruei-grtkioht
   numInstances: null
   plan: free
   region: oregon
   repo: null
-  rootDir: 1kx5r
+  rootDir: GUmIZE
   type: web

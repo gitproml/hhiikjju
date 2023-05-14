@@ -4,114 +4,6 @@ services:
   dockerCommand: null
   env: docker
   healthCheckPath: /
-  name: punoeggbuayic
-  numInstances: null
-  plan: free
-  region: singapore
-  repo: null
-  rootDir: Wp2wNom
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  healthCheckPath: /
-  name: caoytyxlvxwgle
-  numInstances: null
-  plan: free
-  region: singapore
-  repo: null
-  rootDir: Ga3v7gT
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  healthCheckPath: /
-  name: rwqggpvszmsp
-  numInstances: null
-  plan: free
-  region: singapore
-  repo: null
-  rootDir: nAqLKm
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  healthCheckPath: /
-  name: ifykgxpzpbgvoyfct
-  numInstances: null
-  plan: free
-  region: singapore
-  repo: null
-  rootDir: OhCLn9Zhy
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  healthCheckPath: /
-  name: erxunvfsyrbc
-  numInstances: null
-  plan: free
-  region: singapore
-  repo: null
-  rootDir: huuWw7nK
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  healthCheckPath: /
-  name: murxzgmknoz
-  numInstances: null
-  plan: free
-  region: singapore
-  repo: null
-  rootDir: mKO3pVf
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  healthCheckPath: /
-  name: ffrqowqcepnz
-  numInstances: null
-  plan: free
-  region: singapore
-  repo: null
-  rootDir: nMuHHBZV
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  healthCheckPath: /
-  name: tpqlozblglpxgsni
-  numInstances: null
-  plan: free
-  region: singapore
-  repo: null
-  rootDir: SdcEy9mn
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  healthCheckPath: /
-  name: kwzhxemlqrd
-  numInstances: null
-  plan: free
-  region: singapore
-  repo: null
-  rootDir: NKwEYp8eQ
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  healthCheckPath: /
   name: rutsiqigdcnwv
   numInstances: null
   plan: free
@@ -119,3 +11,4 @@ services:
   repo: null
   rootDir: 1kx5r
   type: web
+

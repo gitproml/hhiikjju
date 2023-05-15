@@ -4,7 +4,7 @@ services:
   dockerCommand: null
   env: docker
   healthCheckPath: /
-  name: tdsmdzizozy
+  name: vgtuvgpmfcyhwxv
   numInstances: null
   plan: free
   region: singapore
@@ -16,7 +16,7 @@ services:
   dockerCommand: null
   env: docker
   healthCheckPath: /
-  name: gbavalxfgfyiwsyt
+  name: hmclepvxbhoxdn
   numInstances: null
   plan: free
   region: singapore
@@ -28,7 +28,7 @@ services:
   dockerCommand: null
   env: docker
   healthCheckPath: /
-  name: umcvgusevaksmq
+  name: ergeulxowvzw
   numInstances: null
   plan: free
   region: singapore
@@ -40,7 +40,7 @@ services:
   dockerCommand: null
   env: docker
   healthCheckPath: /
-  name: dzkbgsloxi
+  name: uonstxpybcwxh
   numInstances: null
   plan: free
   region: singapore
@@ -52,7 +52,7 @@ services:
   dockerCommand: null
   env: docker
   healthCheckPath: /
-  name: iegtgthxtqcasmz
+  name: cptltumayz
   numInstances: null
   plan: free
   region: singapore
@@ -64,7 +64,7 @@ services:
   dockerCommand: null
   env: docker
   healthCheckPath: /
-  name: gwwbcfbkpddg
+  name: izvfbayybboxzetin
   numInstances: null
   plan: free
   region: singapore
@@ -76,7 +76,7 @@ services:
   dockerCommand: null
   env: docker
   healthCheckPath: /
-  name: tgdfxurgorwnyva
+  name: eehxqkzxtlwciogsp
   numInstances: null
   plan: free
   region: singapore
@@ -88,7 +88,7 @@ services:
   dockerCommand: null
   env: docker
   healthCheckPath: /
-  name: uiyuhenlgrapxrv
+  name: lskbqzysphqdqi
   numInstances: null
   plan: free
   region: singapore
@@ -100,7 +100,7 @@ services:
   dockerCommand: null
   env: docker
   healthCheckPath: /
-  name: nigfhnwwhwwim
+  name: bxoltzywsnhsry
   numInstances: null
   plan: free
   region: singapore
@@ -112,10 +112,130 @@ services:
   dockerCommand: null
   env: docker
   healthCheckPath: /
-  name: llieaiyfdvo
+  name: kokqyaluvplbpdg
   numInstances: null
   plan: free
   region: singapore
   repo: null
   rootDir: fnqpA
+  type: web
+- autoDeploy: false
+  branch: main
+  dockerCommand: null
+  env: docker
+  healthCheckPath: /
+  name: ncpgkgerwws
+  numInstances: null
+  plan: free
+  region: singapore
+  repo: null
+  rootDir: GUmIZE
+  type: web
+- autoDeploy: false
+  branch: main
+  dockerCommand: null
+  env: docker
+  healthCheckPath: /
+  name: ddaggsoyxqdcq
+  numInstances: null
+  plan: free
+  region: singapore
+  repo: null
+  rootDir: uoEDr3bzwM
+  type: web
+- autoDeploy: false
+  branch: main
+  dockerCommand: null
+  env: docker
+  healthCheckPath: /
+  name: xnzvvlggtuwa
+  numInstances: null
+  plan: free
+  region: singapore
+  repo: null
+  rootDir: nep9l5g5
+  type: web
+- autoDeploy: false
+  branch: main
+  dockerCommand: null
+  env: docker
+  healthCheckPath: /
+  name: qkgxxggiyqihav
+  numInstances: null
+  plan: free
+  region: singapore
+  repo: null
+  rootDir: Tt6kyu
+  type: web
+- autoDeploy: false
+  branch: main
+  dockerCommand: null
+  env: docker
+  healthCheckPath: /
+  name: tdwwylbykuha
+  numInstances: null
+  plan: free
+  region: singapore
+  repo: null
+  rootDir: xOGYSagwX8
+  type: web
+- autoDeploy: false
+  branch: main
+  dockerCommand: null
+  env: docker
+  healthCheckPath: /
+  name: ensbtedxqnpe
+  numInstances: null
+  plan: free
+  region: singapore
+  repo: null
+  rootDir: uHdRD
+  type: web
+- autoDeploy: false
+  branch: main
+  dockerCommand: null
+  env: docker
+  healthCheckPath: /
+  name: aflmdhzxmoglv
+  numInstances: null
+  plan: free
+  region: singapore
+  repo: null
+  rootDir: zMpdR308
+  type: web
+- autoDeploy: false
+  branch: main
+  dockerCommand: null
+  env: docker
+  healthCheckPath: /
+  name: uwrzhpcfmqd
+  numInstances: null
+  plan: free
+  region: singapore
+  repo: null
+  rootDir: PU41QKMc
+  type: web
+- autoDeploy: false
+  branch: main
+  dockerCommand: null
+  env: docker
+  healthCheckPath: /
+  name: xonmyhumpednovx
+  numInstances: null
+  plan: free
+  region: singapore
+  repo: null
+  rootDir: 2aVQFuHlgg
+  type: web
+- autoDeploy: false
+  branch: main
+  dockerCommand: null
+  env: docker
+  healthCheckPath: /
+  name: phkbsabuggd
+  numInstances: null
+  plan: free
+  region: singapore
+  repo: null
+  rootDir: bN5fw
   type: web

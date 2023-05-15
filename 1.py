@@ -96,7 +96,7 @@ if __name__ == '__main__':
         for iiii in retslit:
             rettx.write('{}\n'.format(iiii))
 
-    fdnum = 10
+    fdnum = 20
 
     fidx = 0
     yamlidx = 0
@@ -104,7 +104,7 @@ if __name__ == '__main__':
     for iii in serviceslist:
         serviceslist1.append(iii)
         fidx += 1
-        if fidx == 10:
+        if fidx == fdnum:
             fidx = 0
             retdic = {
                 'services': serviceslist1

@@ -4,7 +4,7 @@ services:
   dockerCommand: null
   env: docker
   healthCheckPath: /
-  name: bhgwvorsazqh
+  name: iiebvkbxbpoky
   numInstances: null
   plan: free
   region: singapore
@@ -16,7 +16,7 @@ services:
   dockerCommand: null
   env: docker
   healthCheckPath: /
-  name: pqxvsoihlqctcuo
+  name: wnrfisbzgwpx
   numInstances: null
   plan: free
   region: singapore
@@ -28,7 +28,7 @@ services:
   dockerCommand: null
   env: docker
   healthCheckPath: /
-  name: qwhhkqifmlayxrlaw
+  name: mzfnoccpysxsaxvsh
   numInstances: null
   plan: free
   region: singapore
@@ -40,7 +40,7 @@ services:
   dockerCommand: null
   env: docker
   healthCheckPath: /
-  name: tknlenaguaz
+  name: fgavbbbkti
   numInstances: null
   plan: free
   region: singapore
@@ -52,7 +52,7 @@ services:
   dockerCommand: null
   env: docker
   healthCheckPath: /
-  name: tosnndizkgklxh
+  name: pamtdapcwrsp
   numInstances: null
   plan: free
   region: singapore
@@ -64,7 +64,7 @@ services:
   dockerCommand: null
   env: docker
   healthCheckPath: /
-  name: bbdgkdezei
+  name: pbixynlngm
   numInstances: null
   plan: free
   region: singapore
@@ -76,7 +76,7 @@ services:
   dockerCommand: null
   env: docker
   healthCheckPath: /
-  name: qyokwqvdmvexuonw
+  name: szspbuypogpf
   numInstances: null
   plan: free
   region: singapore
@@ -88,7 +88,7 @@ services:
   dockerCommand: null
   env: docker
   healthCheckPath: /
-  name: lpyrtbglygorm
+  name: nfgnlksupevzf
   numInstances: null
   plan: free
   region: singapore
@@ -100,7 +100,7 @@ services:
   dockerCommand: null
   env: docker
   healthCheckPath: /
-  name: mncweniqaxaoh
+  name: puxklchtnkqbufm
   numInstances: null
   plan: free
   region: singapore
@@ -112,7 +112,7 @@ services:
   dockerCommand: null
   env: docker
   healthCheckPath: /
-  name: qabitxydkptiq
+  name: axhsgybzdgoif
   numInstances: null
   plan: free
   region: singapore

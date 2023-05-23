@@ -3,8 +3,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  healthCheckPath: /
-  name: ezltaxgyur
+  name: glnzlchklh
   numInstances: null
   plan: free
   region: singapore
@@ -15,8 +14,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  healthCheckPath: /
-  name: psuufeesixfr
+  name: umwsgainqxtskw
   numInstances: null
   plan: free
   region: singapore
@@ -27,8 +25,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  healthCheckPath: /
-  name: gkfxifecwsb
+  name: giwmsrxvhsic
   numInstances: null
   plan: free
   region: singapore
@@ -39,8 +36,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  healthCheckPath: /
-  name: oeayovcaywpa
+  name: sdyyltvbkupnr
   numInstances: null
   plan: free
   region: singapore
@@ -51,8 +47,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  healthCheckPath: /
-  name: wszpxndghhnoq
+  name: mytgilldiaymn
   numInstances: null
   plan: free
   region: singapore
@@ -63,8 +58,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  healthCheckPath: /
-  name: ilsfyqmefwp
+  name: ytftxwdvtofc
   numInstances: null
   plan: free
   region: singapore
@@ -75,8 +69,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  healthCheckPath: /
-  name: osaxrqaurygvt
+  name: hqpysycromebvudh
   numInstances: null
   plan: free
   region: singapore
@@ -87,8 +80,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  healthCheckPath: /
-  name: uniepbhtkuxo
+  name: kxupsniwnyxzgbdc
   numInstances: null
   plan: free
   region: singapore
@@ -99,8 +91,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  healthCheckPath: /
-  name: phhuvqrzapqc
+  name: fmikvoczonruakbp
   numInstances: null
   plan: free
   region: singapore
@@ -111,8 +102,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  healthCheckPath: /
-  name: zeglngregrpxidrf
+  name: xufeoroefuavvoca
   numInstances: null
   plan: free
   region: singapore
@@ -123,8 +113,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  healthCheckPath: /
-  name: rzmzygsrgxuhcge
+  name: gflblaexgpkrfi
   numInstances: null
   plan: free
   region: singapore
@@ -135,8 +124,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  healthCheckPath: /
-  name: gtoggkcfevyarznwr
+  name: ihtsskqedbmmuoncz
   numInstances: null
   plan: free
   region: singapore
@@ -147,8 +135,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  healthCheckPath: /
-  name: lzkbtfopkixesaug
+  name: exexzlvftzscqz
   numInstances: null
   plan: free
   region: singapore
@@ -159,8 +146,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  healthCheckPath: /
-  name: splqqqbfvsuvnbhza
+  name: cbsruyurgnfccxuwn
   numInstances: null
   plan: free
   region: singapore
@@ -171,8 +157,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  healthCheckPath: /
-  name: aglesygwrdoke
+  name: ywzooggekk
   numInstances: null
   plan: free
   region: singapore
@@ -183,8 +168,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  healthCheckPath: /
-  name: cfgyfgzlvgrfrshg
+  name: lwgutbosizqh
   numInstances: null
   plan: free
   region: singapore
@@ -195,8 +179,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  healthCheckPath: /
-  name: aaxfpiqgpvkbskg
+  name: ggenhnpzaegs
   numInstances: null
   plan: free
   region: singapore
@@ -207,8 +190,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  healthCheckPath: /
-  name: nnrlooyukxhfleppf
+  name: giwbprncrkg
   numInstances: null
   plan: free
   region: singapore
@@ -219,8 +201,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  healthCheckPath: /
-  name: xaadcbxyxchsc
+  name: yzwvcarfkculsk
   numInstances: null
   plan: free
   region: singapore
@@ -231,8 +212,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  healthCheckPath: /
-  name: wghwmztdck
+  name: cimgctatbfs
   numInstances: null
   plan: free
   region: singapore

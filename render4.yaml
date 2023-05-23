@@ -3,8 +3,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  healthCheckPath: /
-  name: kfkrpryspkhp
+  name: kgaccerefw
   numInstances: null
   plan: free
   region: singapore
@@ -15,8 +14,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  healthCheckPath: /
-  name: mugsshfhzh
+  name: xdsypslohyifeyp
   numInstances: null
   plan: free
   region: singapore
@@ -27,8 +25,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  healthCheckPath: /
-  name: nfxnfckdbvggeh
+  name: gdskpsxpuxqvupltg
   numInstances: null
   plan: free
   region: singapore
@@ -39,8 +36,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  healthCheckPath: /
-  name: rmxmdfsxvbmlppbpz
+  name: qvvwbafcqcegtp
   numInstances: null
   plan: free
   region: singapore
@@ -51,8 +47,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  healthCheckPath: /
-  name: hxzzxlxxwfi
+  name: ilbkdqvpnzgprcya
   numInstances: null
   plan: free
   region: singapore
@@ -63,8 +58,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  healthCheckPath: /
-  name: ewauoggxpnn
+  name: epggezcmwro
   numInstances: null
   plan: free
   region: singapore
@@ -75,8 +69,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  healthCheckPath: /
-  name: ngatisfiyg
+  name: goaiqaidckeo
   numInstances: null
   plan: free
   region: singapore
@@ -87,8 +80,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  healthCheckPath: /
-  name: ilhgplrawv
+  name: ziiftkxcwyxmgmcvt
   numInstances: null
   plan: free
   region: singapore
@@ -99,8 +91,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  healthCheckPath: /
-  name: qtpspzbmbipwmqu
+  name: wdvghsyowv
   numInstances: null
   plan: free
   region: singapore
@@ -111,8 +102,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  healthCheckPath: /
-  name: ybaerotkezgofugwr
+  name: udywxrhibwqcmxty
   numInstances: null
   plan: free
   region: singapore

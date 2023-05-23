@@ -52,19 +52,20 @@ def generate_random_str2(randomlength=16):
 def gendic(aaa):
     rint1 = random.randint(10, 17)
     rstr1 = generate_random_str2(rint1)
-
+    
+    regions = ['singapore','ohio','oregon','singapore']
+    region = regions[yamlidx%4]
     retdic = {
         'type': 'web',
         'name': '{}'.format(rstr1),
         'env': 'docker',
         'repo': None,
-        'region': 'singapore',
+        'region': '{}'.format(region),
         'plan': 'free',
         'branch': 'main',
         'rootDir': '{}'.format(aaa),
         'dockerCommand': None,
         'numInstances': None,
-        'healthCheckPath': '/',
         'autoDeploy': False
     }
     return rstr1, retdic
@@ -82,13 +83,21 @@ if __name__ == '__main__':
         dirstr = dirini.read()
     serviceslist = []
     retslit = []
+    yamlidx = 0
+    fidx = 0
+    # yamlidx = 0
     for iii in dirstr.split('\n'):
         if ' && ' in iii:
+            fidx+=1
+
             aaa, bbb = iii.split(" && ")
             aaa = aaa.split(' ')[1]
             bbb = bbb.split(" ")[2].replace('"', '')
             # print(aaa, bbb)
             rstr1, retdic11 = gendic(aaa)
+            if fidx==20:
+                fidx=0
+                yamlidx+=1
             serviceslist.append(retdic11)
             retslit.append(rstr1)
 

@@ -3,219 +3,109 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  name: unpormlhmqn
+  name: kgaccerefw
   numInstances: null
   plan: free
-  region: oregon
+  region: singapore
   repo: null
-  rootDir: qAwEx4cm
+  rootDir: Wp2wNom
   type: web
 - autoDeploy: false
   branch: main
   dockerCommand: null
   env: docker
-  name: btaqfuwcbfrgrebi
+  name: xdsypslohyifeyp
   numInstances: null
   plan: free
-  region: oregon
+  region: singapore
   repo: null
-  rootDir: kyxCQKN
+  rootDir: Ga3v7gT
   type: web
 - autoDeploy: false
   branch: main
   dockerCommand: null
   env: docker
-  name: nanohwdczxscmlr
+  name: gdskpsxpuxqvupltg
   numInstances: null
   plan: free
-  region: oregon
+  region: singapore
   repo: null
-  rootDir: k2p31b
+  rootDir: nAqLKm
   type: web
 - autoDeploy: false
   branch: main
   dockerCommand: null
   env: docker
-  name: pcooaqcfmszzulda
+  name: qvvwbafcqcegtp
   numInstances: null
   plan: free
-  region: oregon
+  region: singapore
   repo: null
-  rootDir: Ac198P0mia
+  rootDir: OhCLn9Zhy
   type: web
 - autoDeploy: false
   branch: main
   dockerCommand: null
   env: docker
-  name: rdggklouzsxeav
+  name: ilbkdqvpnzgprcya
   numInstances: null
   plan: free
-  region: oregon
+  region: singapore
   repo: null
-  rootDir: o44gtQf4Au
+  rootDir: huuWw7nK
   type: web
 - autoDeploy: false
   branch: main
   dockerCommand: null
   env: docker
-  name: grrlfpoqgigp
+  name: epggezcmwro
   numInstances: null
   plan: free
-  region: oregon
+  region: singapore
   repo: null
-  rootDir: 8rDoz
+  rootDir: mKO3pVf
   type: web
 - autoDeploy: false
   branch: main
   dockerCommand: null
   env: docker
-  name: cwcogfrlbtgt
+  name: goaiqaidckeo
   numInstances: null
   plan: free
-  region: oregon
+  region: singapore
   repo: null
-  rootDir: oCKVM
+  rootDir: nMuHHBZV
   type: web
 - autoDeploy: false
   branch: main
   dockerCommand: null
   env: docker
-  name: eioolrasiu
+  name: ziiftkxcwyxmgmcvt
   numInstances: null
   plan: free
-  region: oregon
+  region: singapore
   repo: null
-  rootDir: 7gGYlW5
+  rootDir: SdcEy9mn
   type: web
 - autoDeploy: false
   branch: main
   dockerCommand: null
   env: docker
-  name: ldgfzlrgcsmsqdrl
+  name: wdvghsyowv
   numInstances: null
   plan: free
-  region: oregon
+  region: singapore
   repo: null
-  rootDir: Yv0z7Iie2
+  rootDir: NKwEYp8eQ
   type: web
 - autoDeploy: false
   branch: main
   dockerCommand: null
   env: docker
-  name: hxuwirfcfnu
+  name: udywxrhibwqcmxty
   numInstances: null
   plan: free
-  region: oregon
+  region: singapore
   repo: null
-  rootDir: ibNCh
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: xiedxeockmni
-  numInstances: null
-  plan: free
-  region: oregon
-  repo: null
-  rootDir: NQ2zCfAZo
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: aacbyqzdwfmvl
-  numInstances: null
-  plan: free
-  region: oregon
-  repo: null
-  rootDir: IBevMcA8gE
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: iqkqgylzezoz
-  numInstances: null
-  plan: free
-  region: oregon
-  repo: null
-  rootDir: HGgc0Tk
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: pxlnzaqygo
-  numInstances: null
-  plan: free
-  region: oregon
-  repo: null
-  rootDir: syY5WtCoMB
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: xtuehvazxfwhrggr
-  numInstances: null
-  plan: free
-  region: oregon
-  repo: null
-  rootDir: YxDY876QIw
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: hnppzzggwpwbbk
-  numInstances: null
-  plan: free
-  region: oregon
-  repo: null
-  rootDir: OlsvhO
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: mqgmdescclbvsstyr
-  numInstances: null
-  plan: free
-  region: oregon
-  repo: null
-  rootDir: R2upYHeaM
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: ugtbgzwshrysg
-  numInstances: null
-  plan: free
-  region: oregon
-  repo: null
-  rootDir: KBobzcPG
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: nnrmxwwluqmzlevud
-  numInstances: null
-  plan: free
-  region: oregon
-  repo: null
-  rootDir: TVIIV
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: ydgeugwlhuuigqx
-  numInstances: null
-  plan: free
-  region: oregon
-  repo: null
-  rootDir: YpAg2
+  rootDir: 1kx5r
   type: web

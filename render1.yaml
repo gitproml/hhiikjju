@@ -3,219 +3,32 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  name: gcxlipgrsh
+  name: ghmmbrvtvrtmtp
   numInstances: null
   plan: free
   region: singapore
   repo: null
-  rootDir: VNPhYILu
+  rootDir: kSaeB
   type: web
 - autoDeploy: false
   branch: main
   dockerCommand: null
   env: docker
-  name: gyitsxgxvndt
+  name: iwvbcgkfdmg
   numInstances: null
   plan: free
   region: singapore
   repo: null
-  rootDir: TTlEiCl1f
+  rootDir: mzXk2
   type: web
 - autoDeploy: false
   branch: main
   dockerCommand: null
   env: docker
-  name: gzeemvlgmcdgkzhyh
+  name: rftrfmnxmgsbzxzq
   numInstances: null
   plan: free
   region: singapore
   repo: null
-  rootDir: zlO6qze
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: tkgygoybreukswvp
-  numInstances: null
-  plan: free
-  region: singapore
-  repo: null
-  rootDir: 9bp56Q
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: xfzngiaahicygwtbu
-  numInstances: null
-  plan: free
-  region: singapore
-  repo: null
-  rootDir: 7m5Rz50NL
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: geyetxonhghyu
-  numInstances: null
-  plan: free
-  region: singapore
-  repo: null
-  rootDir: OXDbGnewc
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: nrkmgmwuftb
-  numInstances: null
-  plan: free
-  region: singapore
-  repo: null
-  rootDir: vG4cTCY7
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: ysazgoglmntnz
-  numInstances: null
-  plan: free
-  region: singapore
-  repo: null
-  rootDir: yDrIZfCX
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: ubdiugkqen
-  numInstances: null
-  plan: free
-  region: singapore
-  repo: null
-  rootDir: vMcZnIhRQ7
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: uhwtzqbrygee
-  numInstances: null
-  plan: free
-  region: singapore
-  repo: null
-  rootDir: fnqpA
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: fztwsoldmp
-  numInstances: null
-  plan: free
-  region: singapore
-  repo: null
-  rootDir: GUmIZE
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: dggbgfgglacnzxdtb
-  numInstances: null
-  plan: free
-  region: singapore
-  repo: null
-  rootDir: uoEDr3bzwM
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: neqaghlrxhedgnio
-  numInstances: null
-  plan: free
-  region: singapore
-  repo: null
-  rootDir: nep9l5g5
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: qnbqkzguawtknzq
-  numInstances: null
-  plan: free
-  region: singapore
-  repo: null
-  rootDir: Tt6kyu
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: gteganmdhovxdoply
-  numInstances: null
-  plan: free
-  region: singapore
-  repo: null
-  rootDir: xOGYSagwX8
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: tmelntfqmfvkaygs
-  numInstances: null
-  plan: free
-  region: singapore
-  repo: null
-  rootDir: uHdRD
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: bgwyzfoaahtxz
-  numInstances: null
-  plan: free
-  region: singapore
-  repo: null
-  rootDir: zMpdR308
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: sxhquewugzgo
-  numInstances: null
-  plan: free
-  region: singapore
-  repo: null
-  rootDir: PU41QKMc
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: ehgvmuqddv
-  numInstances: null
-  plan: free
-  region: singapore
-  repo: null
-  rootDir: 2aVQFuHlgg
-  type: web
-- autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: qgqwmmhfgpbpo
-  numInstances: null
-  plan: free
-  region: singapore
-  repo: null
-  rootDir: bN5fw
+  rootDir: NryEfmXau
   type: web

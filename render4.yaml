@@ -3,7 +3,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  name: mcegngsgagpbwqpho
+  name: fglqaftewt
   numInstances: null
   plan: free
   region: singapore
@@ -14,7 +14,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  name: frhoghyeficcvh
+  name: wgqhymskgz
   numInstances: null
   plan: free
   region: singapore
@@ -25,7 +25,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  name: cfognpxrxkb
+  name: vfqmoofrlv
   numInstances: null
   plan: free
   region: singapore
@@ -36,7 +36,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  name: pbtuqiuohqqqnlcs
+  name: gfelscvmesbrl
   numInstances: null
   plan: free
   region: singapore
@@ -47,7 +47,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  name: urbpgthzwrelslwc
+  name: tlxmbnmdmsgxlrz
   numInstances: null
   plan: free
   region: singapore
@@ -58,7 +58,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  name: amlpcsminczrpto
+  name: vdwuxcrwszigxtl
   numInstances: null
   plan: free
   region: singapore
@@ -69,7 +69,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  name: qqwqzqkaqqt
+  name: hduhrlwrdhizewcw
   numInstances: null
   plan: free
   region: singapore
@@ -80,7 +80,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  name: xvsmxmztdg
+  name: ngifctckxtqgpeghh
   numInstances: null
   plan: free
   region: singapore
@@ -91,7 +91,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  name: qbmwnrnudpomo
+  name: hgcppzkalfwtsgn
   numInstances: null
   plan: free
   region: singapore
@@ -102,7 +102,7 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  name: pixqdbvgskmbmc
+  name: ragrgtsghswvgyo
   numInstances: null
   plan: free
   region: singapore

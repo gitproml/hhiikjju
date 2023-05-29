@@ -77,8 +77,8 @@ if __name__ == '__main__':
     # yamldic = get_yaml_data(yaml_path)
 
     # print(yamldic)
-    # dirini_ = 'dir.ini' #抖音
-    dirini_ = 'dir_bz.ini' #b站
+    dirini_ = 'dir.ini' #抖音
+    # dirini_ = 'dir_bz.ini' #b站
     dirstr = ''
     with open(dirini_, mode='r', encoding='utf-8') as dirini:
         dirstr = dirini.read()

@@ -106,7 +106,7 @@ if __name__ == '__main__':
         for iiii in retslit:
             rettx.write('{}\n'.format(iiii))
 
-    fdnum = 20
+    fdnum = 40
 
     fidx = 0
     yamlidx = 0

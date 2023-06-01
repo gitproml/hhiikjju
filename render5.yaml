@@ -3,109 +3,109 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  name: rsbtazizmtvqwvgti
+  name: csoirfmampwnzug
   numInstances: null
   plan: free
-  region: ohio
+  region: oregon
   repo: null
-  rootDir: wcfP6y
+  rootDir: qAwEx4cm
   type: web
 - autoDeploy: false
   branch: main
   dockerCommand: null
   env: docker
-  name: hnedkgnvqsakyt
+  name: kfnyshxpmwqtddydt
   numInstances: null
   plan: free
-  region: ohio
+  region: oregon
   repo: null
-  rootDir: rO02P
+  rootDir: kyxCQKN
   type: web
 - autoDeploy: false
   branch: main
   dockerCommand: null
   env: docker
-  name: bldugreyrdzk
+  name: kymaolpzbqd
   numInstances: null
   plan: free
-  region: ohio
+  region: oregon
   repo: null
-  rootDir: bfhPAT5
+  rootDir: k2p31b
   type: web
 - autoDeploy: false
   branch: main
   dockerCommand: null
   env: docker
-  name: wrusmaueprx
+  name: hwdbkznhgaogk
   numInstances: null
   plan: free
-  region: ohio
+  region: oregon
   repo: null
-  rootDir: WC5B20
+  rootDir: Ac198P0mia
   type: web
 - autoDeploy: false
   branch: main
   dockerCommand: null
   env: docker
-  name: wrfznezonumsl
+  name: ggzaorukoc
   numInstances: null
   plan: free
-  region: ohio
+  region: oregon
   repo: null
-  rootDir: K82acO8bw
+  rootDir: o44gtQf4Au
   type: web
 - autoDeploy: false
   branch: main
   dockerCommand: null
   env: docker
-  name: gtvzofrncsxdgm
+  name: cgtwnktxthrlgase
   numInstances: null
   plan: free
-  region: ohio
+  region: oregon
   repo: null
-  rootDir: l7VtbV
+  rootDir: 8rDoz
   type: web
 - autoDeploy: false
   branch: main
   dockerCommand: null
   env: docker
-  name: bawfscggiiuiqh
+  name: cqzgnhbmblkullfbu
   numInstances: null
   plan: free
-  region: ohio
+  region: oregon
   repo: null
-  rootDir: 8N0zGA53
+  rootDir: oCKVM
   type: web
 - autoDeploy: false
   branch: main
   dockerCommand: null
   env: docker
-  name: gvhgoycykgywvkqe
+  name: gdokfbibiqifup
   numInstances: null
   plan: free
-  region: ohio
+  region: oregon
   repo: null
-  rootDir: 9kqm8qxN
+  rootDir: 7gGYlW5
   type: web
 - autoDeploy: false
   branch: main
   dockerCommand: null
   env: docker
-  name: hlbkqhhzhih
+  name: hzlefuioug
   numInstances: null
   plan: free
-  region: ohio
+  region: oregon
   repo: null
-  rootDir: CcSDwmD
+  rootDir: Yv0z7Iie2
   type: web
 - autoDeploy: false
   branch: main
   dockerCommand: null
   env: docker
-  name: ybmizrdqawplq
+  name: cxloroplab
   numInstances: null
   plan: free
-  region: ohio
+  region: oregon
   repo: null
-  rootDir: 3Lbb6
+  rootDir: ibNCh
   type: web

@@ -49,23 +49,31 @@ def generate_random_str2(randomlength=16):
         random_str += base_str[random.randint(0, length)]
     return random_str
 
+def get_docker_url(aaa):
+    dockerfilef = os.path.join(aaa,'Dockerfile')
+    dfkstr = ''
+    with open(dockerfilef,mode='r',encoding='utf-8') as dkf:
+        dfkstr = dkf.read()
+    dkurl = dfkstr.replace('FROM ','')
+    return dkurl.strip()
+
 def gendic(aaa):
     rint1 = random.randint(10, 17)
     rstr1 = generate_random_str2(rint1)
-    
+    dkurl = get_docker_url(aaa)
     regions = ['singapore','ohio','oregon','singapore']
     region = regions[yamlidx%4]
+    print(dkurl)
     retdic = {
         'type': 'web',
         'name': '{}'.format(rstr1),
-        'env': 'docker',
-        'repo': None,
+        'env': 'image',
+        'image':{
+            'url':'docker.io/{}'.format(dkurl)
+        },
         'region': '{}'.format(region),
         'plan': 'free',
-        'branch': 'main',
-        'rootDir': '{}'.format(aaa),
-        'dockerCommand': None,
-        'numInstances': None,
+        'numInstances': 1,
         'autoDeploy': False
     }
     return rstr1, retdic

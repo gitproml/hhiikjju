@@ -1,111 +1,91 @@
 services:
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: vfksqwexkfnigwtlg
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/sxkeg0h:wd2HvRx
+  name: piiokhzgykmnmerr
+  numInstances: 1
   plan: free
   region: singapore
-  repo: null
-  rootDir: Wp2wNom
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: xbrkglwfdtwvp
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/r0op2ep:3h7xrmH
+  name: fyoimnoltgavbysds
+  numInstances: 1
   plan: free
   region: singapore
-  repo: null
-  rootDir: Ga3v7gT
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: gcrgtttghhguage
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/twfvxf:NvvNZ6
+  name: mtzecihbclggtlbcz
+  numInstances: 1
   plan: free
   region: singapore
-  repo: null
-  rootDir: nAqLKm
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: iohmohmagmzghzc
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/nmtzhwgt9:DoApg9u5o
+  name: hingagqaockmwhyk
+  numInstances: 1
   plan: free
   region: singapore
-  repo: null
-  rootDir: OhCLn9Zhy
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: uatlfbiods
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/rrhfdy2d:agHl1zRi
+  name: aiulgcplawaxvrvb
+  numInstances: 1
   plan: free
   region: singapore
-  repo: null
-  rootDir: huuWw7nK
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: ncvepoerrzg
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/sfiyrnp:RIiWC9L
+  name: dvkzcprkmhc
+  numInstances: 1
   plan: free
   region: singapore
-  repo: null
-  rootDir: mKO3pVf
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: kgewwwvwidgar
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/ekunxp08:8H8bVQF1
+  name: ylyildqhdtnouds
+  numInstances: 1
   plan: free
   region: singapore
-  repo: null
-  rootDir: nMuHHBZV
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: dhlpigvxlnughix
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/5gxurzde:3O9p6anr
+  name: hzqcsonisvxvey
+  numInstances: 1
   plan: free
   region: singapore
-  repo: null
-  rootDir: SdcEy9mn
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: meiufkmkexfk
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/yanhyvd13:8GU2I2gFL
+  name: koenlwwowslgevv
+  numInstances: 1
   plan: free
   region: singapore
-  repo: null
-  rootDir: NKwEYp8eQ
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: pgyfdwbxdegci
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/m1fqg:Oozul
+  name: sfmopqcxvwwzou
+  numInstances: 1
   plan: free
   region: singapore
-  repo: null
-  rootDir: 1kx5r
   type: web

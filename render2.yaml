@@ -1,221 +1,181 @@
 services:
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: hgrdnadzibrxaw
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/en9ng8:QaRM8t
+  name: tpsulvoomfvu
+  numInstances: 1
   plan: free
   region: ohio
-  repo: null
-  rootDir: wcfP6y
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: croczfciralkgg
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/u64mc:NPyE8
+  name: uvozcmytgexlzgqrq
+  numInstances: 1
   plan: free
   region: ohio
-  repo: null
-  rootDir: rO02P
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: yooeyfsyhq
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/howh5lg:fFgPyqv
+  name: tgpgnsfflty
+  numInstances: 1
   plan: free
   region: ohio
-  repo: null
-  rootDir: bfhPAT5
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: txphwzbnhcciudkhh
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/rbdelh:P1s26Q
+  name: onfkvkchndlgtdeh
+  numInstances: 1
   plan: free
   region: ohio
-  repo: null
-  rootDir: WC5B20
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: ggqfgxryzengtbg
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/pexvvn49s:qlKaWsWdx
+  name: ucxrvayxru
+  numInstances: 1
   plan: free
   region: ohio
-  repo: null
-  rootDir: K82acO8bw
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: kmrvzeopnzk
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/l1skk9:gcz8o7
+  name: axpmtdslpp
+  numInstances: 1
   plan: free
   region: ohio
-  repo: null
-  rootDir: l7VtbV
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: rreixzcvtpvzf
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/w3b70eyl:FOGgdtfR
+  name: drpbglnlowkxcytn
+  numInstances: 1
   plan: free
   region: ohio
-  repo: null
-  rootDir: 8N0zGA53
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: blyvuqdukigcroqgt
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/mvv1pktr:8lpxny52
+  name: uwlxhtkbqi
+  numInstances: 1
   plan: free
   region: ohio
-  repo: null
-  rootDir: 9kqm8qxN
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: qmcpuicoucoveaxo
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/wmhuhcd:k4P0tGY
+  name: mnbmunvcaymdsopvh
+  numInstances: 1
   plan: free
   region: ohio
-  repo: null
-  rootDir: CcSDwmD
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: hmgbylvpfe
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/ipgc9:BaaWA
+  name: ixoxawgiqbtlqkhub
+  numInstances: 1
   plan: free
   region: ohio
-  repo: null
-  rootDir: 3Lbb6
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: vkgmlcdmuybvn
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/mc5gv:DKsfm
+  name: gnsnqhywveranirui
+  numInstances: 1
   plan: free
   region: ohio
-  repo: null
-  rootDir: F24gf
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: dzhflddsnv
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/ggerutab:HWhfGf3T
+  name: pxuzovnsxasrgbmgk
+  numInstances: 1
   plan: free
   region: ohio
-  repo: null
-  rootDir: GGKQtyIW
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: nffblchrlpw
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/sezse6:5InbwQ
+  name: qpytbrznnmo
+  numInstances: 1
   plan: free
   region: ohio
-  repo: null
-  rootDir: cS5qgw
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: hxumnedylogu
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/8xudd34ose:dmGIBV3rC0
+  name: zlcxdmiqfle
+  numInstances: 1
   plan: free
   region: ohio
-  repo: null
-  rootDir: 2ZVlYKyL2p
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: uxnogotycqvfypbv
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/fasulxf761:yV9cLcGrub
+  name: dcumofwzzoivfwgz
+  numInstances: 1
   plan: free
   region: ohio
-  repo: null
-  rootDir: C2tTZS8P4X
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: unrvrkbogmugphugv
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/fvoczikg:lT3hX2qA
+  name: ktqugmddzdw
+  numInstances: 1
   plan: free
   region: ohio
-  repo: null
-  rootDir: MXSlHDgk
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: rxutartckb
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/t96yk9:1mTSHh
+  name: gvpbvlnfzoge
+  numInstances: 1
   plan: free
   region: ohio
-  repo: null
-  rootDir: 3v3qpO
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: mugvllrpng
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/il3wggolvi:uaqOUxMbxh
+  name: iuuqmxdesfbxxm
+  numInstances: 1
   plan: free
   region: ohio
-  repo: null
-  rootDir: 6GlU7AL2Qi
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: azqkudecgogowcfzp
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/hdkdlw:nxmhA9
+  name: gzglhnegzr
+  numInstances: 1
   plan: free
   region: ohio
-  repo: null
-  rootDir: wvbKRB
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: xsuxahgpldx
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/o8nbybqfu:zUbIYh5Yd
+  name: ehwoklkkfio
+  numInstances: 1
   plan: free
   region: ohio
-  repo: null
-  rootDir: 6gsk37h37
   type: web

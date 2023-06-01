@@ -1,221 +1,181 @@
 services:
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: otcvxcnzgigc
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/gho2zwqs:Vc9MBOMY
+  name: kqnerashxuopgv
+  numInstances: 1
   plan: free
   region: singapore
-  repo: null
-  rootDir: VNPhYILu
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: nxodlsetoypzfghla
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/8petbgfzp:veed7rgxi
+  name: svgglrhlixzxv
+  numInstances: 1
   plan: free
   region: singapore
-  repo: null
-  rootDir: TTlEiCl1f
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: mhyscgwlppdnqo
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/9ciing7:x4liyop
+  name: ygbtualmywv
+  numInstances: 1
   plan: free
   region: singapore
-  repo: null
-  rootDir: zlO6qze
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: bzdqmnzbrwayedfa
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/igfmk1:gHxV98
+  name: pkylkxlmldnngvq
+  numInstances: 1
   plan: free
   region: singapore
-  repo: null
-  rootDir: 9bp56Q
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: zxslslmwrbgfzr
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/82ev3ygl8:yZgMG8CwK
+  name: qtwkvxqngoxgo
+  numInstances: 1
   plan: free
   region: singapore
-  repo: null
-  rootDir: 7m5Rz50NL
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: pyzmuzivgofhyazgy
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/xb8sugpf1:1qAwr431Z
+  name: rrmovvngofreuwv
+  numInstances: 1
   plan: free
   region: singapore
-  repo: null
-  rootDir: OXDbGnewc
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: isxobzfllgungxcca
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/m7zfeskk:XKYsxYCP
+  name: hmbppgrohlddh
+  numInstances: 1
   plan: free
   region: singapore
-  repo: null
-  rootDir: vG4cTCY7
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: ixnixedwri
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/vm9bxqgs:ngoVWf0g
+  name: oxkycwxqizrxtucq
+  numInstances: 1
   plan: free
   region: singapore
-  repo: null
-  rootDir: yDrIZfCX
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: yprktweszqryy
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/6xmlwex9gq:VYu1to1z1G
+  name: ytouhpfavahkgscp
+  numInstances: 1
   plan: free
   region: singapore
-  repo: null
-  rootDir: vMcZnIhRQ7
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: dccgslxoqbg
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/nhqey:WPFFg
+  name: ifllykhnqfqszdn
+  numInstances: 1
   plan: free
   region: singapore
-  repo: null
-  rootDir: fnqpA
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: wmuexcehlyv
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/yapyzu:qi8MVF
+  name: nhugyqcyzpc
+  numInstances: 1
   plan: free
   region: singapore
-  repo: null
-  rootDir: GUmIZE
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: kpyvcuvxal
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/26ds2anc1y:pPGx9giHGl
+  name: hqtavtycdmanc
+  numInstances: 1
   plan: free
   region: singapore
-  repo: null
-  rootDir: uoEDr3bzwM
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: zvmqdffcovgghoraw
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/hdcda0ba:qfdvgl47
+  name: shhlgwdeqnatubgvf
+  numInstances: 1
   plan: free
   region: singapore
-  repo: null
-  rootDir: nep9l5g5
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: bslggchaik
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/lzz9fp:InKwUD
+  name: sfqqhlgfsbltihlp
+  numInstances: 1
   plan: free
   region: singapore
-  repo: null
-  rootDir: Tt6kyu
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: lwwcesihylgm
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/mumm101lef:cGSbrH5s5g
+  name: nvscvbclqlyg
+  numInstances: 1
   plan: free
   region: singapore
-  repo: null
-  rootDir: xOGYSagwX8
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: sgnvuggxzofdef
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/2wbfd:4B6Dg
+  name: xgtueygtlmdkl
+  numInstances: 1
   plan: free
   region: singapore
-  repo: null
-  rootDir: uHdRD
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: uswgwxspwt
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/1epdgumf:ZBiO6NFG
+  name: hppfcgontvzkigzs
+  numInstances: 1
   plan: free
   region: singapore
-  repo: null
-  rootDir: zMpdR308
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: vtsttculgx
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/hxlxcpml:7I3M2Ng0
+  name: xdzengsagcoa
+  numInstances: 1
   plan: free
   region: singapore
-  repo: null
-  rootDir: PU41QKMc
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: zyisozebtd
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/cfvol7eqk6:tp3M2pOCkA
+  name: irlmxpxkxcw
+  numInstances: 1
   plan: free
   region: singapore
-  repo: null
-  rootDir: 2aVQFuHlgg
   type: web
 - autoDeploy: false
-  branch: main
-  dockerCommand: null
-  env: docker
-  name: eqplwellusxx
-  numInstances: null
+  env: image
+  image:
+    url: docker.io/lxacs/oczmq:FFgAX
+  name: keugvdeslrupi
+  numInstances: 1
   plan: free
   region: singapore
-  repo: null
-  rootDir: bN5fw
   type: web
